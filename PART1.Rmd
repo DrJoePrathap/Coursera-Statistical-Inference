@@ -1,6 +1,6 @@
 ---
 title: "the project 1 part 1"
-author: "wangh"
+author: "Joe"
 date: "Saturday, August 16, 2014"
 output: html_document
 ---
